@@ -1,1 +1,1 @@
-!https://github.com/mattvail9/Python/blob/main/Google%20Foobar/google%20foobar.png
+![Image of Google Foobar](https://github.com/mattvail9/Python/blob/main/Google%20Foobar/google%20foobar.png)
